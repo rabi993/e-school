@@ -1,0 +1,47 @@
+.top{
+    background-color: rgb(240 255 240);
+}
+.beg-nav{
+   width: 100%;
+   
+}
+.nv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    gap: 50px;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.sign-in{
+    background-color: rgb(16, 139, 92);
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 0 50px;
+    cursor: pointer;
+    height: 50px;
+    font-size: 25px;
+}
+.container{
+    margin-bottom: 100px;
+    
+}
+.sector{
+    background-color:rgb(240 255 240) ;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+
+}
+#sector1 {
+    margin-left: 0px;
+}
+#sector4{
+    margin-right: 0px;
+}
+.banner{
+    padding-bottom: 100px;
+}
