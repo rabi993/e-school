@@ -43,6 +43,10 @@
     box-shadow: 5px 5px 10px rgb(240, 238, 238);
 
 }
+.sector:hover{
+    background-color: white;
+    box-shadow: 10px 10px 15px rgb(240, 238, 238); 
+}
 #sector1 {
     margin-left: 0px;
 }
