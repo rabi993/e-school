@@ -14,7 +14,10 @@
     font-weight: 600;
     font-size: 25px;
 }
+#logoimage{
+ 
 
+}
 .sign-in{
     background-color: rgb(16, 139, 92);
     color: white;
@@ -30,11 +33,14 @@
     
 }
 .sector{
-    background-color:rgb(240 255 240) ;
+    background-color:rgb(238, 247, 238) ;
     height: 350px;
     width: 300px;
     margin: 20px;
     padding-top: 50px;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgb(240, 238, 238);
 
 }
 #sector1 {
