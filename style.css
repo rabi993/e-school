@@ -1,3 +1,6 @@
+.container{
+    max-width: 1500px;
+}
 .top{
     background-color: rgb(240 255 240);
 }
@@ -33,7 +36,7 @@
     
 }
 .sector{
-    background-color:rgb(238, 247, 238) ;
+    background-color:rgb(241, 247, 241) ;
     height: 350px;
     width: 300px;
     margin: 20px;
@@ -55,4 +58,41 @@
 }
 .banner{
     padding-bottom: 100px;
+}
+.online-courses{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+.crd{
+    background-color: white;
+    box-shadow: 10px 10px 15px rgb(240, 238, 238); 
+    padding: 30px 20px;
+    border-radius: 25px;
+    margin: 0px 15px;
+
+}
+.crd1{
+    margin-left: 0px;
+
+}
+.card3{
+    margin-right: 0px;
+}
+.card-img-top{
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.calender {
+    
+    width: 24px;
+    height: 24px;
+    
+}
+.people{
+    vertical-align: 0%;
+    width: 24px;
+    height: 24px;
+    
+        
 }
