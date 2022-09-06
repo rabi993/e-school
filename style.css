@@ -3,9 +3,11 @@
 }
 .top{
     background-color: rgb(240 255 240);
+    
 }
 .beg-nav{
    width: 100%;
+   padding-top: 50px;
    
 }
 .nv{
@@ -16,9 +18,11 @@
     gap: 50px;
     font-weight: 600;
     font-size: 25px;
+    
 }
 #logoimage{
- 
+    width: 198.07px;
+    height: 59px;
 
 }
 .sign-in{
