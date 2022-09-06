@@ -100,3 +100,24 @@
     
         
 }
+.foot{
+    background-color: rgba(22, 21, 21, 0.829);
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+
+}
+#r1{
+    font-weight: bold;
+}
+.ftt{
+    font-size:24px;
+    font-weight: 300;
+    padding-left: 70px;
+    
+}
+.container.ft{
+    margin-bottom: 0px;
+    
+}
